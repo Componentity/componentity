@@ -11,15 +11,17 @@ Thousands of components ready to be copy-pasted!
 
 |TailwindCss|Bootstrap|MaterializeCss|SASS|React|VueJS|SvelteJS|WordPress|Flutter|Frontity|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
-| <a href="https://componentity.com/category/tailwindcss" target="_blank">![Check TailwindCss](./assets/logos/tailwindcss.png)</a>  |  <a href="https://componentity.com/category/bootstrap" target="_blank">![Check Bootstrap](./assets/logos/bootstrap.png)</a>  |  <a href="https://componentity.com/category/materializecss" target="_blank">![Check MaterializeCss](./assets/logos/materialize.png)</a>  |  <a href="https://componentity.com/category/sass" target="_blank">![Check sass](./assets/logos/sass.png)</a>  |  <a href="https://componentity.com/category/reactjs" target="_blank">![Check ReactJS](./assets/logos/reactjs.png)</a>  |  <a href="https://componentity.com/category/vuejs" target="_blank">![Check VueJS](./assets/logos/vuejs.png)</a>  |  <a href="https://componentity.com/category/sveltejs" target="_blank">![Check SvelteJS](./assets/logos/sveltejs.png)</a>  |  <a href="https://componentity.com/category/wordpress" target="_blank">![Check wordpress](./assets/logos/wordpress.png)</a>  |  <a href="https://componentity.com/category/flutter" target="_blank">![Check flutter](./assets/logos/flutter.png)</a>  |  <a href="https://componentity.com/category/frontity" target="_blank">![Check frontity](./assets/logos/frontity.png)</a>  |
+| <a href="https://componentity.com/category/tailwindcss" target="_blank">![Check TailwindCss](./assets/logos/tailwindcss.png)</a>  |  <a href="https://componentity.com/category/bootstrap" target="_blank">![Check Bootstrap](./assets/logos/bootstrap.png)</a>  |  <a href="https://componentity.com/category/materializecss" target="_blank">![Check MaterializeCss](./assets/logos/materializecss.png)</a>  |  <a href="https://componentity.com/category/sass" target="_blank">![Check sass](./assets/logos/sass.png)</a>  |  <a href="https://componentity.com/category/reactjs" target="_blank">![Check ReactJS](./assets/logos/reactjs.png)</a>  |  <a href="https://componentity.com/category/vuejs" target="_blank">![Check VueJS](./assets/logos/vuejs.png)</a>  |  <a href="https://componentity.com/category/sveltejs" target="_blank">![Check SvelteJS](./assets/logos/sveltejs.png)</a>  |  <a href="https://componentity.com/category/wordpress" target="_blank">![Check wordpress](./assets/logos/wordpress.png)</a>  |  <a href="https://componentity.com/category/flutter" target="_blank">![Check flutter](./assets/logos/flutter.png)</a>  |  <a href="https://componentity.com/category/frontity" target="_blank">![Check frontity](./assets/logos/frontity.png)</a>  |
 
-## Contributors
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 
+## Authors
+
+1. [Yahya Makarim](https://github.com/mymakarim)
 
 ## Licensing
 
 - Copyright 2020 @componentity
+- Copyright 2020 @CodeNawis
 
 ## License :scroll:
 
