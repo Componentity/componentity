@@ -1,4 +1,4 @@
-# componentity.com
+# Componentity.com
 
 <div align="center"><img src="./assets/logos/componentity.png" alt="componentity - thousands of components ready tobe copy-pasted" width="300"/></div>
 
@@ -6,6 +6,12 @@
 
 Thousands of components ready to be copy-pasted!
 
+Checkout [Componentity.com](https://componentity.com)
+
+So far
+**120** TailwindCss eye-catching components, blocks & sections
+
+<div align="center"><img src="https://codenawis.com/componentity/wp-content/uploads/2020/08/sample.png" alt="componentity - thousands of components ready tobe copy-pasted" width="80%"/></div>
 
 ## Versions
 
