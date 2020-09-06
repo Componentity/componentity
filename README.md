@@ -10,7 +10,9 @@ Checkout [Componentity.com](https://componentity.com)
 
 #### So far
 
-1. **120** TailwindCss eye-catching components, blocks & sections</a>
+1. **120** TailwindCss eye-catching <a href="https://componentity.com/category/tailwindcss/" target="_blank">components, blocks & sections</a>
+1. **45** Bootstrap eye-catching <a href="https://componentity.com/category/bootstrap/" target="_blank">components, blocks & sections</a>
+
 
 ## Versions
 
